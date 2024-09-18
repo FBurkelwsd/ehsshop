@@ -28,7 +28,7 @@ https://www.powertoolinstitute.com/pti-pages/videos/safetyvideo_4_MiterSawSafety
 
 
 # Safety Guide
-{{< pdf "https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf" > }}
+{{< pdf "https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf" >}}
 
 # Additonal Links 
 * [Additional instructions from Power Tool Institute](https://www.powertoolinstitute.com/pti-pages/tools/Miter-Saws.asp)
