@@ -24,9 +24,6 @@ Please see the links below as a place to start
 {{< youtube 1UG_gUHvl90 >}}
 {{< youtube eHck6j1apuI >}}
 
-https://www.powertoolinstitute.com/pti-pages/videos/safetyvideo_4_MiterSawSafety_eng-YouTube.asp
-
-
 # Safety Guide
 {{< pdf "https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf" >}}
 
