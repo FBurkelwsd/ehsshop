@@ -1,0 +1,40 @@
+baseURL: https://ehsshop.packofpartsa.org/
+languageCode: en-us
+title: Eastlake High School Shop
+theme: hextra
+enableGitInfo: true
+
+menu:
+  main:
+    - name: Tools
+      pageRef: /tools
+      weight: 1
+    - name: Safety
+      pageRef: /safety
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+
+params:
+  description: Information about the Eastlake Highschool shop.
+  
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    width: wide
+    logo:
+      path: ehs-wolf.png
+      link: /
+      width: 40
+      height: 20
+  editURL:
+    enable: true
+    base: "https://github.com/packofparts/ehsshop/edit/main/content"      
+  theme:
+    default: system
+    displayToggle: false
+  footer:
+    enable: false
+  displayUpdatedDate: true
