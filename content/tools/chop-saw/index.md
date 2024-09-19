@@ -1,9 +1,10 @@
 ---
 title: Chop Saw
 ---
+
 ![Chop Saw](chop-saw.jpg)
 
-Please see the links below as a place to start
+## General
 
 * Avoid distractions.
 * Make sure the saw is securely attached to a table or base support before attempting any cut.
@@ -18,20 +19,20 @@ Please see the links below as a place to start
 * If the saw should kickback, continue to hold it firmly in the down position, release the off/on switch and wait for the blade to stop rotating.
 * Make sure ear protection is on and everyone near you is also on.
 
-## Review Videos
+## Safety
 
-{{< youtube h2UolfDERKM >}}
-{{< youtube 1UG_gUHvl90 >}}
 {{< youtube eHck6j1apuI >}}
-
-## Safety Guide
-
 {{< pdf "https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf" >}}
 
-## Additional Links 
+## Additional Links
 
 * [Additional instructions from Power Tool Institute](https://www.powertoolinstitute.com/pti-pages/tools/Miter-Saws.asp)
 
 ## Manual
 
 {{< pdf "Evolution S355MCS Mitering Chop Saw.pdf" >}}
+
+## Product Reviews
+
+{{< youtube h2UolfDERKM >}}
+{{< youtube 1UG_gUHvl90 >}}

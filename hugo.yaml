@@ -19,7 +19,8 @@ menu:
 
 params:
   description: Information about the Eastlake Highschool shop.
-  
+  displayUpdatedDate: true
+
   navbar:
     displayTitle: true
     displayLogo: true
@@ -29,12 +30,17 @@ params:
       link: /
       width: 40
       height: 20
+
   editURL:
     enable: true
     base: "https://github.com/packofparts/ehsshop/edit/main/content"      
+
   theme:
     default: system
     displayToggle: false
+
   footer:
     enable: false
-  displayUpdatedDate: true
+
+  page:
+    width: wide
