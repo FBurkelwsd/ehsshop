@@ -16,7 +16,7 @@ menu:
       weight: 3
       params:
         type: search
-    - name: Pack of Parts
+    - name: Brought to You by Pack of Parts
       weight: 4
       url: "https://packofparts.org"
       params:
@@ -50,10 +50,7 @@ params:
     displayToggle: false
 
   footer:
-    enable: true
-    displayCopyright: false
-    displayPoweredBy: true
-    width: wide
+    enable: false
 
   page:
     width: wide
