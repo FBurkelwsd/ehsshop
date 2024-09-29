@@ -16,6 +16,16 @@ menu:
       weight: 3
       params:
         type: search
+    - name: Pack of Parts
+      weight: 4
+      url: "https://packofparts.org"
+      params:
+        icon: pop
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
   description: Information about the Eastlake Highschool shop.
@@ -40,7 +50,10 @@ params:
     displayToggle: false
 
   footer:
-    enable: false
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: true
+    width: wide
 
   page:
     width: wide
