@@ -9,7 +9,7 @@ to use it safely.
 
 {{< cards >}}
   {{< card link="./band-saw/" title="Band Saw" image="./band-saw/band-saw.webp" >}}
-  {{< card link="./chop-saw/" title="Chop Saw" image="./chop-saw/chop-saw.jpg" >}}
+  {{< card link="./chop-saw/" title="Chop Saw" image="./chop-saw/chop-saw.webp" >}}
   {{< card link="./circular-saw/" title="Circular Saw" image="./circular-saw/circular-saw.jpg" >}}
   {{< card link="./heat-gun/" title="Heat Gun" image="./heat-gun/heat-gun.jpg" >}}
   {{< card link="./jig-saw/" title="Jig Saw" image="./jig-saw/jig-saw.jpg" >}}

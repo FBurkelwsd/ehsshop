@@ -2,7 +2,7 @@
 title: Chop Saw
 ---
 
-![Evolution S355MCS Mitering Chop Saw](chop-saw.jpg)
+![Evolution S355MCS Mitering Chop Saw](./chop-saw.webp)
 
 A chop saw, also known as a miter saw, is used to make accurate crosscuts and miters in a workpiece by positioning a mounted blade onto a board. It
 consists of a powered circular saw that can be positioned at a variety of angles and lowered onto a board positioned against a backstop called the fence.
@@ -35,7 +35,7 @@ watching this [Power Tool Safety](http://www.powertoolinstitute.com/pti-pages/vi
 
 ## Useful Links
 
-* [Product Manual](Evolution_S355MCS_Mitering_Chop_Saw.pdf)
+* [Product Manual](./Evolution_S355MCS_Mitering_Chop_Saw.pdf)
 * [Learn More About Miter Saws](https://en.wikipedia.org/wiki/Miter_saw) from Wikipedia
 * [Product Review](https://www.youtube.com/watch?v=h2UolfDERKM) video from Making Stuff
 * [Product Review](https://www.youtube.com/watch?v=1UG_gUHvl90) video from Challenge the Build
