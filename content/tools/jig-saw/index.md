@@ -8,6 +8,10 @@ A jig saw is a reciprocating saw that can cut irregular curves, such as stencile
 
 The shop has a [Milwaukee M18 Fuel D-Handle Jig Saw](./Milwaukee_M18_Jig_Saw.pdf).
 
+## Usage
+
+Replacement blades can be found in bins against the wall behind the band saws.
+
 ## Safety
 
 You may learn more by reading this [Jig Saw Safety Guide](https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Jig-Saw.pdf) and

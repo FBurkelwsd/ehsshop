@@ -8,6 +8,7 @@ Please click on a tool below to get more information about what it's good for an
 to use it safely.
 
 {{< cards >}}
+  {{< card link="./angle-grinder/" title="Angle Grinder" image="./angle-grinder/angle-grinder.png" >}}
   {{< card link="./band-saw/" title="Band Saw" image="./band-saw/band-saw.webp" >}}
   {{< card link="./chop-saw/" title="Chop Saw" image="./chop-saw/chop-saw.webp" >}}
   {{< card link="./circular-saw/" title="Circular Saw" image="./circular-saw/circular-saw.jpg" >}}
