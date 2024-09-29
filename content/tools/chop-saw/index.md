@@ -2,9 +2,14 @@
 title: Chop Saw
 ---
 
-![Chop Saw](chop-saw.jpg)
+![Evolution S355MCS Mitering Chop Saw](chop-saw.jpg)
 
-## General
+A chop saw, also known as a miter saw, is used to make accurate crosscuts and miters in a workpiece by positioning a mounted blade onto a board. It
+consists of a powered circular saw that can be positioned at a variety of angles and lowered onto a board positioned against a backstop called the fence.
+
+The shop has an [Evolution S355MCS Mitering Chop Saw](Evolution_S355MCS_Mitering_Chop_Saw.pdf).
+
+## Usage
 
 * Avoid distractions.
 * Make sure the saw is securely attached to a table or base support before attempting any cut.
@@ -16,23 +21,21 @@ title: Chop Saw
 * Make a trial cut on a piece of scrap material before attempting final cuts to make sure the saw is cutting properly and that the miter and bevel angles are set accurately.
 * Hold the material securely when making cuts.
 * When making multiple cuts of the same dimensions, clamp a stop on the saw table to assure accuracy of the cut and to reduce the time needed to make the cuts.
-* If the saw should kickback, continue to hold it firmly in the down position, release the off/on switch and wait for the blade to stop rotating.
-* Make sure ear protection is on and everyone near you is also on.
+* If the saw should kickback, continue to hold it firmly in the down position, release the on/off switch and wait for the blade to stop rotating.
+* Make sure you and people near you have ear protection.
 
 ## Safety
 
 {{< youtube eHck6j1apuI >}}
-{{< pdf "https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf" >}}
 
-## Additional Links
+<br/>
 
-* [Additional instructions from Power Tool Institute](https://www.powertoolinstitute.com/pti-pages/tools/Miter-Saws.asp)
+You may learn more by reading this [Miter Saw Safety Guide](https://www.powertoolinstitute.com/pti-includes/pdfs/Tool-Specific-Files/Miter-Saws.pdf) and
+watching this [Power Tool Safety](http://www.powertoolinstitute.com/pti-pages/videos/Power-Tool-Safety-Video-2018/index.html) video.
 
-## Manual
+## Useful Links
 
-{{< pdf "Evolution S355MCS Mitering Chop Saw.pdf" >}}
-
-## Product Reviews
-
-{{< youtube h2UolfDERKM >}}
-{{< youtube 1UG_gUHvl90 >}}
+* [Product Manual](Evolution_S355MCS_Mitering_Chop_Saw.pdf)
+* [Learn More About Miter Saws](https://en.wikipedia.org/wiki/Miter_saw)
+* [Product Review from Making Stuff](https://www.youtube.com/watch?v=h2UolfDERKM)
+* [Product Review from Challenge the Build](https://www.youtube.com/watch?v=1UG_gUHvl90)
