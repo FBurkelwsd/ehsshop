@@ -37,5 +37,5 @@ watching this [Power Tool Safety](http://www.powertoolinstitute.com/pti-pages/vi
 
 * [Product Manual](Evolution_S355MCS_Mitering_Chop_Saw.pdf)
 * [Learn More About Miter Saws](https://en.wikipedia.org/wiki/Miter_saw) from Wikipedia
-* [Product Review Video](https://www.youtube.com/watch?v=h2UolfDERKM) from Making Stuff
-* [Product Review Video](https://www.youtube.com/watch?v=1UG_gUHvl90) from Challenge the Build
+* [Product Review](https://www.youtube.com/watch?v=h2UolfDERKM) video from Making Stuff
+* [Product Review](https://www.youtube.com/watch?v=1UG_gUHvl90) video from Challenge the Build

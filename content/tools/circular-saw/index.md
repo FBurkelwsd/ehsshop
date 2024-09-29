@@ -2,7 +2,7 @@
 title: Circular Saw
 ---
 
-![Circular Saw](circular-saw.jpg)
+![Circular Saw](./circular-saw.jpg)
 
 A circular saw or a buzz saw, is a power-saw using a toothed or abrasive disc or blade to cut different materials using a rotary
 motion spinning around an arbor.
