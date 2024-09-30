@@ -15,5 +15,6 @@ to use it safely.
   {{< card link="./heat-gun/" title="Heat Gun" image="./heat-gun/heat-gun.jpg" >}}
   {{< card link="./jig-saw/" title="Jig Saw" image="./jig-saw/jig-saw.jpg" >}}
   {{< card link="./reciprocating-saw/" title="Reciprocating Saw" image="./reciprocating-saw/reciprocating-saw.jpg" >}}
+  {{< card link="./router/" title="Router" image="./router/router.webp" >}}
   {{< card link="./scroll-saw/" title="Scroll Saw" image="./scroll-saw/scroll-saw.jpg" >}}
 {{< /cards >}}
