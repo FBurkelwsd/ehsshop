@@ -2,7 +2,7 @@
 title: Scroll Saw
 ---
 
-![Scroll Saw](scroll-saw.jpg)
+![Scroll Saw](./scroll-saw.jpg)
 
 Scroll saws are useful for precision-cutting intricate curves and patterns on thin stock. They have thin blades that move rapidly up and down through the opening in the saw table. The blade is held in upper and lower chucks that pull it tight and keep it from bending. A hold-down adjusts to the thickness of the wood being cut.
 
@@ -19,4 +19,4 @@ You may learn more by watching this [Power Tool Safety](http://www.powertoolinst
 ## Useful Links
 
 * [Learn More About Scroll Saws](https://en.wikipedia.org/wiki/Scroll_saw) from Wikipedia
-* [How to Use a Scroll Saw Video](https://www.youtube.com/watch?v=KVqdbXQwQ1I) from Caleb's Shop
+* [How to Use a Scroll Saw](https://www.youtube.com/watch?v=KVqdbXQwQ1I) video from Caleb's Shop
