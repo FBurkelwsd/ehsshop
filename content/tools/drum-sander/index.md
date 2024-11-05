@@ -12,7 +12,7 @@ Bottom sanding table moves wood into, be sure to adjust height of spinning drum 
 
 ## Safety
 
-You may learn more by 
+You may learn more by
 watching this [Power Tool Safety](http://www.powertoolinstitute.com/pti-pages/videos/Power-Tool-Safety-Video-2018/index.html) video.
 
 ## Useful Links

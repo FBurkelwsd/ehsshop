@@ -4,4 +4,8 @@ cascade:
     type: docs
 ---
 
-This section will have safety information.
+Please click on a tile below to get more information.
+
+{{< cards >}}
+  {{< card link="./first-aid/" title="First Aid" image="./first-aid/first-aid.jpg" >}}
+{{< /cards >}}

@@ -12,6 +12,8 @@ to use it safely.
   {{< card link="./band-saw/" title="Band Saw" image="./band-saw/band-saw.webp" >}}
   {{< card link="./chop-saw/" title="Chop Saw" image="./chop-saw/chop-saw.webp" >}}
   {{< card link="./circular-saw/" title="Circular Saw" image="./circular-saw/circular-saw.jpg" >}}
+  {{< card link="./dremel/" title="Dremel" image="./dremel/dremel.webp" >}}
+  {{< card link="./drill/" title="Drill" image="./drill/drill.webp" >}}
   {{< card link="./heat-gun/" title="Heat Gun" image="./heat-gun/heat-gun.jpg" >}}
   {{< card link="./jig-saw/" title="Jig Saw" image="./jig-saw/jig-saw.jpg" >}}
   {{< card link="./lathe/" title="Lathe" image="./lathe/lathe.jpg" >}}
