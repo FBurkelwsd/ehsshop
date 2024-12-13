@@ -19,6 +19,7 @@ to use it safely.
   {{< card link="./lathe/" title="Lathe" image="./lathe/lathe.jpg" >}}
   {{< card link="./drum-sander/" title="Drum Sander" image="./drum-sander/drum-sander.jpg" >}}
   {{< card link="./reciprocating-saw/" title="Reciprocating Saw" image="./reciprocating-saw/reciprocating-saw.jpg" >}}
+  {{<card link="./sanding/" title="Sanding Hand and Power" >}}
   {{< card link="./router/" title="Router" image="./router/router.webp" >}}
   {{< card link="./scroll-saw/" title="Scroll Saw" image="./scroll-saw/scroll-saw.jpg" >}}
 {{< /cards >}}
